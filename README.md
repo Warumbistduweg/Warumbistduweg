@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Warumbistduweg
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C++, Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
